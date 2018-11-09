@@ -1,5 +1,0 @@
-matplotlib
-numpy
-jupyter
-PyQt5
-numba
